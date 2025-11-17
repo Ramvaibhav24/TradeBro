@@ -1,20 +1,2158 @@
-[00:00:03.768] Server  LOG      ✓ Ready in 2.6s
-[00:00:06.815] Server  LOG      ○ Compiling / ...
-[00:00:10.768] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:11.377] Browser LOG     auth from localStorage: {"email":"ramvaibhavchhabra2006@gmail.com","name":"User"}
-[00:00:23.208] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+[00:00:02.740] Server  LOG      ✓ Ready in 1737ms
+[00:00:08.520] Server  LOG      ○ Compiling / ...
+[00:00:11.910] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:12.488] Browser LOG     auth from localStorage: {"email":"ramvaibhavchhabra2006@gmail.com","name":"User"}
+[00:00:23.178] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
        please check the style of container, or the props width(100%) and height(100%),
        or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
        height and width.
-[00:00:23.208] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+[00:00:23.178] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
        please check the style of container, or the props width(100%) and height(100%),
        or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
        height and width.
-[00:00:31.804] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+[00:00:27.833] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
        please check the style of container, or the props width(100%) and height(100%),
        or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
        height and width.
-[00:00:31.804] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+[00:00:27.833] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
        please check the style of container, or the props width(100%) and height(100%),
        or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
        height and width.
+[00:00:36.965] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:37.348] Browser LOG     auth from localStorage: {"email":"ramvaibhavchhabra2006@gmail.com","name":"User"}
+[00:01:10.069] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:01:10.070] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:01:19.079] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:01:19.079] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:02:00.837] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:02:00.837] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:02:05.709] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:02:05.709] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:02:09.003] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:02:09.003] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:02:11.280] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:02:11.280] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:02:16.661] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:02:16.661] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:02:30.986] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:02:30.986] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:02:31.641] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:02:31.642] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:05:04.317] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:05:04.317] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:05:50.257] Server  LOG      ✓ Compiled in 444ms
+[00:06:00.707] Server  LOG      ✓ Compiled in 132ms
+[00:06:11.708] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:11.862] Browser LOG     auth from localStorage: {"email":"ramvaibhavchhabra2006@gmail.com","name":"User"}
+[00:06:11.862] Browser ERROR   uncaughtError: ReferenceError: useNavigate is not defined
+[00:06:57.479] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.482] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.485] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.489] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.492] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.494] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.497] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.500] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.503] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.507] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.564] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.566] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.568] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.570] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.573] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.576] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.579] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.583] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.585] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.587] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.593] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.595] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.598] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.599] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.601] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.604] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.606] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.608] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.611] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.612] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.616] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.618] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.620] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.623] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.625] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.627] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.630] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.632] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.634] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.638] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.641] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.644] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.646] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.647] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.650] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.651] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.654] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.655] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.657] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.659] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.662] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.664] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.666] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.667] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.669] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.671] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.672] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.675] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.677] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.678] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.681] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.683] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.684] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.687] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.688] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.690] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.691] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.693] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.695] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.697] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:57.699] Server  LOG      ✓ Compiled in 326ms
+[00:06:58.631] Browser ERROR   ./src/App.jsx:2:1
+Module not found: Can't resolve 'nexr'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'nexr';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:59.066] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:59.841] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:00.674] Browser LOG     auth from localStorage: {"email":"ramvaibhavchhabra2006@gmail.com","name":"User"}
+[00:07:00.674] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `App`.
+[00:07:14.368] Server  LOG      ✓ Compiled in 13.3s
+[00:07:14.373] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:07:14.664] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:15.635] Browser LOG     auth from localStorage: {"email":"ramvaibhavchhabra2006@gmail.com","name":"User"}
+[00:07:15.635] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `App`.
+[00:07:26.029] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:26.187] Browser LOG     auth from localStorage: {"email":"ramvaibhavchhabra2006@gmail.com","name":"User"}
+[00:07:26.187] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `App`.
+[00:07:39.308] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'next/roy'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'next/roy';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+Import map: aliased to module 'next' with subpath '/roy' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:39.310] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'next/roy'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'next/roy';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+Import map: aliased to module 'next' with subpath '/roy' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:39.312] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'next/roy'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'next/roy';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+Import map: aliased to module 'next' with subpath '/roy' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:39.314] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'next/roy'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'next/roy';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+Import map: aliased to module 'next' with subpath '/roy' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:39.316] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'next/roy'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'next/roy';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+Import map: aliased to module 'next' with subpath '/roy' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:39.317] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'next/roy'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'next/roy';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+Import map: aliased to module 'next' with subpath '/roy' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:39.319] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'next/roy'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'next/roy';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+Import map: aliased to module 'next' with subpath '/roy' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:39.321] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'next/roy'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'next/roy';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+Import map: aliased to module 'next' with subpath '/roy' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:39.323] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'next/roy'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'next/roy';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+Import map: aliased to module 'next' with subpath '/roy' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:39.325] Server  ERROR    ⨯ ./src/App.jsx:2:1
+Module not found: Can't resolve 'next/roy'
+  1 | import React, { useState, useEffect } from 'react';
+> 2 | import { BrowserRouter as Router, Routes, Route, Navigate } from 'next/roy';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Login from './pages/Login';
+  4 | import Landing from './pages/Landing';
+  5 | import Dashboard from './pages/Dashboard';
+
+Import map: aliased to module 'next' with subpath '/roy' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/App.jsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/App.jsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:42.437] Server  LOG      ✓ Compiled in 79ms
