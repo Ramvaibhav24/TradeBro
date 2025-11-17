@@ -1,5 +1,7 @@
-import React, { useState, useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';
+'use client';
+
+import React, { useState } from 'react';
+import { useRouter } from 'next/navigation';
 import Sidebar from '../components/Sidebar';
 import StockOverview from '../components/StockOverview';
 import ChartSection from '../components/ChartSection';
@@ -14,11 +16,12 @@ export default function Dashboard() {
   const [stockData, setStockData] = useState(null);
   const [loading, setLoading] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
-  const navigate = useNavigate();
+  const router = useRouter();
 
   const handleLogout = () => {
+    // run in browser (this handler only runs client-side)
     localStorage.removeItem('tradebro_auth');
-    navigate('/login');
+    router.push('/login');
   };
 
   const handleProfileClick = () => {
@@ -29,7 +32,12 @@ export default function Dashboard() {
     <div className="dashboard-layout">
       <Sidebar selectedStock={selectedStock} />
       <main className="main-content">
-        <input type="checkbox" id="menu-toggle" checked={menuOpen} onChange={(e) => setMenuOpen(e.target.checked)} />
+        <input
+          type="checkbox"
+          id="menu-toggle"
+          checked={menuOpen}
+          onChange={(e) => setMenuOpen(e.target.checked)}
+        />
         <div className="container">
           <header className="header">
             <div className="header-left">
@@ -39,12 +47,28 @@ export default function Dashboard() {
                 <span className="bar"></span>
               </label>
             </div>
+
             <div className="search-bar">
-              <StockSearch setSelectedStock={setSelectedStock} setStockData={setStockData} setLoading={setLoading} />
+              <StockSearch
+                setSelectedStock={setSelectedStock}
+                setStockData={setStockData}
+                setLoading={setLoading}
+              />
             </div>
+
             <div className="header-right">
               <button className="profile-icon" onClick={handleProfileClick} title="Logout">
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                >
                   <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
                   <circle cx="12" cy="7" r="4"></circle>
                 </svg>
@@ -109,7 +133,7 @@ function StockSearch({ setSelectedStock, setStockData, setLoading }) {
       placeholder="Search Stock Symbol…"
       value={searchValue}
       onChange={(e) => setSearchValue(e.target.value)}
-      onKeyPress={handleSearch}
+      onKeyDown={handleSearch}
     />
   );
 }
