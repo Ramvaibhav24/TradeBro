@@ -1,0 +1,224 @@
+/* [project]/src/index.css [app-client] (css) */
+:root {
+  --bg-color: #131315;
+  --surface-color: #18181a;
+  --border-color: #333337;
+  --text-primary: #b1b5c3;
+  --text-secondary: #7d8590;
+  --accent-color: #3b82f6;
+  --positive-color: #16a34a;
+  --negative-color: #dc2626;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: DM Sans, Inter, sans-serif;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+a, button {
+  cursor: pointer;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #0c0d0d;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #303236;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #494b50;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+header {
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  z-index: 1000;
+  background-color: #131315f2;
+  border-bottom: 1px solid #33333780;
+  padding: 1rem 0;
+  transition: all .3s;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+header.active {
+  background-color: #131315fa;
+  border-bottom-color: #333337;
+  box-shadow: 0 8px 24px #0000004d;
+}
+
+.logo {
+  color: #3b82f6;
+  align-items: center;
+  gap: .75rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-decoration: none;
+  transition: all .3s;
+  display: flex;
+}
+
+.logo img {
+  width: 40px;
+  height: 40px;
+}
+
+.logo:hover {
+  color: #2563eb;
+  transform: scale(1.05);
+}
+
+.navbar-list {
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+
+.navbar-link {
+  color: #b1b5c3;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all .3s;
+  position: relative;
+}
+
+.navbar-link:after {
+  content: "";
+  background: #3b82f6;
+  width: 0;
+  height: 2px;
+  transition: width .3s;
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+}
+
+.navbar-link:hover, .navbar-link.active {
+  color: #3b82f6;
+}
+
+.navbar-link.active:after, .navbar-link:hover:after {
+  width: 100%;
+}
+
+.btn-outline {
+  color: #fff;
+  cursor: pointer;
+  background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+  border: none;
+  border-radius: 8px;
+  padding: .875rem 2rem;
+  font-weight: 600;
+  transition: all .3s;
+}
+
+.btn-outline:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px #3b82f64d;
+}
+
+.login-link {
+  color: #b1b5c3;
+  font-size: 1.25rem;
+  text-decoration: none;
+  transition: all .3s;
+}
+
+.login-link:hover {
+  color: #3b82f6;
+  transform: scale(1.1);
+}
+
+.nav-toggle-btn {
+  cursor: pointer;
+  background: none;
+  border: none;
+  flex-direction: column;
+  gap: 5px;
+  display: none;
+}
+
+.line {
+  background-color: #b1b5c3;
+  border-radius: 2px;
+  width: 25px;
+  height: 3px;
+  transition: all .3s;
+}
+
+.nav-toggle-btn.active .line-1 {
+  transform: rotate(45deg)translate(10px, 10px);
+}
+
+.nav-toggle-btn.active .line-2 {
+  opacity: 0;
+}
+
+.nav-toggle-btn.active .line-3 {
+  transform: rotate(-45deg)translate(7px, -7px);
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    background-color: #18181a;
+    width: 100%;
+    max-height: calc(100vh - 70px);
+    padding: 2rem 1rem;
+    transition: left .3s;
+    position: fixed;
+    top: 70px;
+    left: -100%;
+    overflow-y: auto;
+  }
+
+  .navbar.active {
+    left: 0;
+  }
+
+  .navbar-list {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .nav-toggle-btn {
+    display: flex;
+  }
+
+  .logo {
+    font-size: 1.25rem;
+  }
+
+  .btn-outline {
+    padding: .75rem 1.5rem;
+    font-size: .9rem;
+  }
+}
+
+/*# sourceMappingURL=src_index_8b6fca74.css.map*/

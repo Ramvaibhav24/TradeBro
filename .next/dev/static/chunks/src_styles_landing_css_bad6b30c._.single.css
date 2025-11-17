@@ -1,0 +1,663 @@
+/* [project]/src/styles/landing.css [app-client] (css) */
+.landing-page {
+  color: #b1b5c3;
+  background: linear-gradient(135deg, #131315 0%, #18181a 100%);
+}
+
+main {
+  padding-top: 80px;
+}
+
+.section {
+  padding: 120px 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+[data-section] > * {
+  opacity: 0;
+  transition: all 1s cubic-bezier(.34, 1.56, .64, 1);
+  transform: translateY(50px);
+}
+
+[data-section].active > * {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.hero-container {
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  gap: 60px;
+  display: grid;
+}
+
+.hero-content {
+  flex-direction: column;
+  gap: 2rem;
+  display: flex;
+}
+
+.hero-badge {
+  color: #3b82f6;
+  background: #3b82f61a;
+  border: 1px solid #3b82f64d;
+  border-radius: 50px;
+  align-items: center;
+  gap: .75rem;
+  width: fit-content;
+  padding: .75rem 1.5rem;
+  font-size: .875rem;
+  font-weight: 600;
+  display: inline-flex;
+}
+
+.badge-dot {
+  background: #3b82f6;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  animation: 2s infinite pulse;
+  display: inline-block;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: .5;
+  }
+}
+
+.hero-title {
+  color: #fff;
+  letter-spacing: -1px;
+  font-size: clamp(2.5rem, 6vw, 3.5rem);
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.hero-text {
+  color: #b1b5c3;
+  max-width: 60ch;
+  margin: 0;
+  font-size: 1.125rem;
+  line-height: 1.8;
+}
+
+.hero-actions {
+  flex-wrap: wrap;
+  gap: 1rem;
+  display: flex;
+}
+
+.btn {
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  align-items: center;
+  gap: .5rem;
+  padding: .875rem 2rem;
+  font-size: 1rem;
+  font-weight: 600;
+  transition: all .3s;
+  display: inline-flex;
+}
+
+.btn-primary {
+  color: #fff;
+  background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 30px #3b82f64d;
+}
+
+.btn-secondary {
+  color: #b1b5c3;
+  background: none;
+  border: 2px solid #333337;
+}
+
+.btn-secondary:hover {
+  color: #3b82f6;
+  border-color: #3b82f6;
+}
+
+.btn-arrow {
+  transition: transform .3s;
+  display: inline-block;
+}
+
+.btn-primary:hover .btn-arrow {
+  transform: translateX(4px);
+}
+
+.hero-stats {
+  gap: 3rem;
+  margin-top: 1rem;
+  display: flex;
+}
+
+.stat {
+  flex-direction: column;
+  gap: .5rem;
+  display: flex;
+}
+
+.stat-value {
+  color: #3b82f6;
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+.stat-label {
+  color: #7d8590;
+  font-size: .875rem;
+}
+
+.hero-banner {
+  background: #3b82f61a;
+  border: 1px solid #3b82f633;
+  border-radius: 20px;
+  padding: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-banner img {
+  border-radius: 16px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.hero-banner:before {
+  content: "";
+  pointer-events: none;
+  background: linear-gradient(135deg, #3b82f61a 0%, #0000 100%);
+  border-radius: 20px;
+  position: absolute;
+  inset: 0;
+}
+
+.trend-tab {
+  flex-direction: column;
+  gap: 2rem;
+  display: flex;
+}
+
+.trends-with-charts {
+  flex-direction: column;
+  gap: 1.5rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+
+.trend-card-with-chart {
+  cursor: pointer;
+  background: #3b82f60d;
+  border: 1px solid #333337;
+  border-radius: 12px;
+  grid-template-columns: 1fr 200px;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  transition: all .3s;
+  display: grid;
+}
+
+.trend-card-with-chart:hover {
+  background: #3b82f61a;
+  border-color: #3b82f6;
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px #3b82f626;
+}
+
+.trend-card-with-chart.active {
+  background: #3b82f626;
+  border-color: #3b82f6;
+}
+
+.trend-card-left {
+  flex-direction: column;
+  gap: .75rem;
+  display: flex;
+}
+
+.trend-card-chart {
+  width: 200px;
+  height: 60px;
+  padding: .5rem 0;
+}
+
+.trend-card {
+  cursor: pointer;
+  background: #3b82f60d;
+  border: 1px solid #333337;
+  border-radius: 12px;
+  padding: 1.5rem;
+  transition: all .3s;
+}
+
+.trend-card:hover {
+  background: #3b82f61a;
+  border-color: #3b82f6;
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px #3b82f626;
+}
+
+.trend-card.active {
+  background: #3b82f626;
+  border-color: #3b82f6;
+}
+
+.card-title-wrapper {
+  margin-bottom: 1rem;
+}
+
+.card-title {
+  color: #fff;
+  gap: .5rem;
+  font-size: 1.125rem;
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-flex;
+}
+
+.card-title:hover {
+  color: #3b82f6;
+}
+
+.card-title .span {
+  color: #7d8590;
+  font-size: .875rem;
+}
+
+.card-value {
+  color: #fff;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  display: block;
+}
+
+.card-analytics {
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.current-price {
+  color: #3b82f6;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.title-wrapper {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  display: flex;
+}
+
+.btn-link {
+  color: #3b82f6;
+  align-items: center;
+  gap: .5rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all .3s;
+  display: inline-flex;
+}
+
+.btn-link:hover {
+  color: #2563eb;
+  gap: 1rem;
+}
+
+.market-tab {
+  flex-direction: column;
+  gap: 2rem;
+  display: flex;
+}
+
+.market-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.market-chart {
+  text-align: center;
+  min-width: 100px;
+}
+
+.table-title .table-heading {
+  text-align: left;
+  color: #7d8590;
+  text-transform: uppercase;
+  border-bottom: 2px solid #333337;
+  padding: 1rem;
+  font-size: .875rem;
+  font-weight: 600;
+}
+
+.table-body .table-row {
+  border-bottom: 1px solid #333337;
+  transition: all .3s;
+}
+
+.table-body .table-row:hover {
+  background-color: #3b82f614;
+}
+
+.table-data {
+  color: #b1b5c3;
+  padding: 1rem;
+}
+
+.rank {
+  color: #3b82f6;
+  font-weight: 600;
+}
+
+.last-price {
+  color: #fff;
+  font-weight: 600;
+}
+
+.last-update.green {
+  color: #16a34a;
+  font-weight: 600;
+}
+
+.last-update.red {
+  color: #dc2626;
+  font-weight: 600;
+}
+
+.coin-name {
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.coin-name:hover {
+  color: #3b82f6;
+}
+
+.coin-name .span {
+  color: #7d8590;
+  margin-left: .5rem;
+  font-size: .875rem;
+}
+
+.add-to-fav {
+  cursor: pointer;
+  color: #7d8590;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  transition: color .2s;
+}
+
+.add-to-fav:hover {
+  color: #dc2626;
+}
+
+.section-title {
+  color: #fff;
+  margin-bottom: 1rem;
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 700;
+}
+
+.section-text {
+  color: #b1b5c3;
+  max-width: 60ch;
+  margin: 0 0 3rem;
+  font-size: 1.125rem;
+  line-height: 1.8;
+}
+
+.instruction-list {
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+}
+
+.instruction-card {
+  background: linear-gradient(135deg, #3b82f614 0%, #16a34a0d 100%);
+  border: 1px solid #333337;
+  border-radius: 16px;
+  padding: 2rem;
+  transition: all .3s;
+}
+
+.instruction-card:hover {
+  background: linear-gradient(135deg, #3b82f626 0%, #16a34a1a 100%);
+  border-color: #3b82f6;
+  transform: translateY(-8px);
+  box-shadow: 0 16px 32px #3b82f633;
+}
+
+.card-subtitle {
+  color: #3b82f6;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 0 0 .5rem;
+  font-size: .875rem;
+  font-weight: 600;
+}
+
+.card-title {
+  color: #fff;
+  margin: 0 0 1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.card-text {
+  color: #b1b5c3;
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.tab-nav {
+  border-bottom: 1px solid #333337;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+
+.tab-btn {
+  color: #b1b5c3;
+  cursor: pointer;
+  background-color: #0000;
+  border: none;
+  border-radius: 8px;
+  padding: .75rem 1.5rem;
+  font-weight: 600;
+  transition: all .3s;
+}
+
+.tab-btn.active {
+  color: #fff;
+  background-color: #3b82f6;
+}
+
+.tab-btn:hover {
+  color: #3b82f6;
+  border-bottom: 2px solid #3b82f6;
+}
+
+.badge {
+  color: #fff;
+  border-radius: 50px;
+  padding: 6px 12px;
+  font-size: .75rem;
+  font-weight: 700;
+  display: inline-block;
+}
+
+.badge.green {
+  background-color: #16a34a;
+}
+
+.badge.red {
+  background-color: #dc2626;
+}
+
+@media (max-width: 768px) {
+  .section {
+    padding: 60px 0;
+  }
+
+  main {
+    padding-top: 60px;
+  }
+
+  .hero-container {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .hero-title {
+    font-size: 2rem;
+  }
+
+  .hero-text {
+    font-size: 1rem;
+  }
+
+  .hero-actions {
+    flex-direction: column;
+  }
+
+  .btn {
+    justify-content: center;
+    width: 100%;
+  }
+
+  .hero-stats {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .stat-value {
+    font-size: 1.5rem;
+  }
+
+  .title-wrapper {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .trend-card-with-chart {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .trend-card-chart {
+    width: 100%;
+    height: 80px;
+  }
+
+  .tab-nav {
+    border-bottom: none;
+    gap: .5rem;
+  }
+
+  .tab-btn {
+    padding: .5rem 1rem;
+    font-size: .875rem;
+  }
+
+  .hero-banner {
+    max-width: 100%;
+  }
+
+  .instruction-list {
+    grid-template-columns: 1fr;
+  }
+
+  .table-data, .table-heading {
+    padding: .75rem .5rem;
+    font-size: .875rem;
+  }
+
+  .market-chart {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .section {
+    padding: 40px 0;
+  }
+
+  .hero-title {
+    font-size: 1.5rem;
+  }
+
+  .hero-text {
+    font-size: .95rem;
+  }
+
+  .btn {
+    padding: .75rem 1.5rem;
+    font-size: .9rem;
+  }
+
+  .hero-stats {
+    gap: 1.5rem;
+  }
+
+  .stat-value {
+    font-size: 1.25rem;
+  }
+
+  .stat-label {
+    font-size: .8rem;
+  }
+
+  .section-title {
+    font-size: 1.75rem;
+  }
+
+  .card-title {
+    font-size: 1.25rem;
+  }
+
+  .instruction-card {
+    padding: 1.5rem;
+  }
+
+  .market-table {
+    font-size: .875rem;
+  }
+
+  .trend-card-chart {
+    height: 60px;
+  }
+}
+
+/*# sourceMappingURL=src_styles_landing_css_bad6b30c._.single.css.map*/
